@@ -1,0 +1,3 @@
+# dinv
+
+dynamic inventory tool
