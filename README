@@ -5,7 +5,7 @@ This is the `README' file for 'dinv' (a dynamic inventory tool)
 
 	What is it ?
 
-dinv is software collection to provide unix/linux o.s. and hardware inventory info.
+dinv is a software collection to provide unix/linux o.s. and hardware inventory info.
 
 
 	Tarball
@@ -57,7 +57,9 @@ still to be implemented in due time.
 
 	Feedback
 
-Bug reports should be directed to the `support' facility at SourceForge;
+Bug reports should be directed to the `support' facility at the repository
+(SourceForge oy gitlab or github);
+
 However, any comment, improvement/enhencement suggestions, problem report,
 or general feedback can be sent by email and is very welcome.
 
